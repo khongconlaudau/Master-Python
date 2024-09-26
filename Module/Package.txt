@@ -1,0 +1,6 @@
+to import from a package we need to create a file.py name __init__.py
+so Python knows it is a python package
+
+then we can do
+from package_name| package_name.sub_package_name (for sub package) import sales
+

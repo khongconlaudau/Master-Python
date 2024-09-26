@@ -23,3 +23,7 @@ for char in setence:
 
 sorted_char_frequency = sorted(char_frequency.items(), key=lambda item: item[1], reverse=True)
 print(sorted_char_frequency[0])
+
+register = [("AA", 20), ("BB", 22), ("CC", 20)]
+sorted_register = sorted(register, key=lambda item: item[1])
+print(sorted_register)

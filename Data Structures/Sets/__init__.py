@@ -9,8 +9,8 @@ second = {1, 5}
 # first.add(2)
 # first.remove(4)
 # print(len(first))
-
-print(first | second)  # likes pipe in linux.Combines 2 set to a new one
+# print(first)
+# print(first | second)  # likes pipe in linux.Combines 2 set to a new one
 print(first & second)  # find the common attribute in the sets
-print(first - second)  # find the different attributes of the first set from the second
-print(first ^ second)  # find the different in both the 2 sets
+# print(first - second)  # find the different attributes of the first set from the second
+# print(first ^ second)  # find the different in both the 2 sets
